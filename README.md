@@ -15,9 +15,3 @@
 | [<img src="https://avatars.githubusercontent.com/u/104837639?v=4" width="120px" /> ](https://www.github.com/fidelisbae) | [<img src="https://avatars.githubusercontent.com/u/46833758?v=4" width="120px" /> ](https://www.github.com/ggsno) |
 |---|---|
 |배건희 fidelisbae|오강산 ggsno|
-
-## 기록
-
-|회차|주제|위키|진행자|비고|
-|---|---|---|---|---|
-|1|깨끗한 코드|[link](-)|ggsno||
